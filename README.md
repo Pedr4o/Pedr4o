@@ -8,5 +8,5 @@ Olá! Meu nome é Pedro Barbosa e estou direcionando minha carreira para a área
 Contatos:
 
 <a href="https://www.linkedin.com/in/pedro-eduardo-barbosa/"><img width="30px" src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000"> 
-<a href="p.edudebrito@gmail.com"><img width="30px" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000">
-<a href="55+ 11949255338"><img width="30px" src="https://img.icons8.com/?size=100&id=EkrO09CBZb8i&format=png&color=000000">
+<a href="E-mail](mailto:p.edudebrito@gmail.com)"><img width="30px" src="https://img.icons8.com/?size=100&id=CodoMZeFHZxE&format=png&color=000000">
+<a href="https://wa.me/5511949255338"><img width="30px" src="https://img.icons8.com/?size=100&id=EkrO09CBZb8i&format=png&color=000000">
